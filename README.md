@@ -1,6 +1,6 @@
 # Boulder-Dash Level Simulator
 
-- A light-weight level simulation program made with NES-boulder-dash sprites .As a media-layer , **[SDL]()** was used.
+- A light-weight level simulation program made with NES-boulder-dash sprites . As a media-layer , **[SDL]()** was used.
 
 <img src="README-media/display.gif" width="570">
 
